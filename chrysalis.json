@@ -1,10 +1,10 @@
 {
-    "version": "0.11.5",
+    "version": "0.12.0",
     "description": "Graphical configurator for Kaleidoscope-powered keyboards.",
     "homepage": "https://github.com/keyboardio/Chrysalis",
     "license": "GPL-3.0-only",
-    "url": "https://github.com/keyboardio/Chrysalis/releases/download/v0.11.5/Chrysalis-0.11.5-portable.exe",
-    "hash": "4ddcd8422c2557bfd33cea37cd524b52db95876ab5f31aa3d5042dc458d1e909",
+    "url": "https://github.com/keyboardio/Chrysalis/releases/download/v0.12.0/Chrysalis-0.12.0-portable.exe",
+    "hash": "83885b07390362c82b15c006674fd0b048d0578c1f9ca819ba84f7479e1fbc91",
     "pre_install": "Rename-Item \"$dir\\Chrysalis-$version-portable.exe\" 'Chrysalis.exe'",
     "bin": "Chrysalis.exe",
     "shortcuts": [
