@@ -1,0 +1,9 @@
+{
+    "version": "20240321",
+    "description": "ACPI Component Architecture",
+    "homepage": "https://acpica.org/downloads",
+    "license": "BSD",
+    "url": "https://downloadmirror.intel.com/819464/iasl-win-20240321.zip",
+    "hash": "6f68bfeb978420a4bd3c5818f97a66bc66a0f573b4c26de24822d645f84187dd",
+    "env_add_path": "."
+}
